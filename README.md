@@ -17,7 +17,6 @@ Dodge their bullets and destroy them all before they reach you.
 - Use the SpaceBar to shoot the enemies.
 - Dodge the enemy bullets because even one of them will destroy you.
 - Destroy all the enemies before they reach you.
-- 
 - You just dont have to let them get past you.
 
 
